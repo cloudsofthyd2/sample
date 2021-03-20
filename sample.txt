@@ -1,0 +1,10 @@
+<head>
+  <styling>
+    <!-- s1 specifies default color, font, and text alignment -->
+    <style xml:id="style1" tts:color="blue"/>
+  </styling>
+  <layout>
+    <region xml:id="region1" tts:origin="20% 80%" tts:extent="80% 100%"/>
+  </layout>
+  <metadata> <!-- info about the document -->
+</head>
